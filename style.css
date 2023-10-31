@@ -1,0 +1,15 @@
+.card-img-top{
+	width: 200px;
+	align-self: center;
+}
+
+footer {
+    clear:both;
+	background-color:#1d1d1d; 
+	padding:10px;
+	color:#eee;
+}
+
+.card-me {
+    width: 200px;
+}
