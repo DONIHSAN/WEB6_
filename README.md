@@ -23,9 +23,9 @@ Buka web https://getbootstrap.com Disini saya memakai Bootstrap 4. Copy atau dow
 
 ### 2. Membuat Navbar
 
-Buat komponen website yang berupa menu. Biasanya diletakkan pada header website.
+Buat komponen website yang berupa menu. Biasanya diletakkan pada Header Website.
 
-Untuk mencari Navbar  klik menu documentation  lalu  klik components pada web Bootstrap.
+Untuk mencari Navbar  klik menu documentation  lalu  klik components pada Web Bootstrap.
 
 ![](screenshot/ss2.png)
 
@@ -33,7 +33,7 @@ Untuk mencari Navbar  klik menu documentation  lalu  klik components pada web Bo
 
 ### 3. Menambahkan Jumbotron
 
-Selanjutnya buat jumbotron atau area besar pada Bootstrap, umumnya digunakan untuk menampilkan sebuah infromasi penting.
+Selanjutnya tambahkan Jumbotron atau area besar pada Bootstrap, umumnya digunakan untuk menampilkan sebuah infromasi penting.
 
 ![](screenshot/ss4.png)
 
@@ -43,7 +43,7 @@ Selanjutnya buat jumbotron atau area besar pada Bootstrap, umumnya digunakan unt
 
 Untuk membuat body konten, saya menggunakan card.
 
-Pertama saya akan membagi kolom menggunakan display flex agar dapat memuat 2 kolom yang nanti akan di isi oleh menu List Group.
+Pertama saya akan membagi kolom menggunakan display flex agar dapat memuat 2 kolom yang nanti akan di isi oleh menu list group.
 
 ![](screenshot/ss6.png)
 
@@ -59,7 +59,7 @@ Buat body konten untuk yg kedua , masih menggunakan card.
 
 ### 6. Menambah List Group
 
-Tambahkan widget disamping kanan card.
+Tambahkan widget , disamping kanan card.
 
 ![](screenshot/ss10.png)
 
